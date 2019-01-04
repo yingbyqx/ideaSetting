@@ -4,7 +4,7 @@
     <property name="created">2018-10-19T11:25:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2019-01-04T16:04:55</property>
+    <property name="modified">2019-01-04T16:26:04</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -35,6 +35,11 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />

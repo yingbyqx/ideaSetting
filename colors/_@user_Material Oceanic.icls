@@ -4,7 +4,7 @@
     <property name="created">2019-01-04T15:41:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2019-01-04T16:26:04</property>
+    <property name="modified">2019-01-04T16:41:38</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -3791,7 +3791,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="9df0bd" />
       </value>
     </option>
     <option name="XPATH.KEYWORD">

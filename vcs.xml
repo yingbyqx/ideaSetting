@@ -30,6 +30,10 @@
           <option name="url" value="http://git.mchz.com.cn/dcap/services/svc_user_backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="yingrongbi@163.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\ideaWorkSpace\dbiam" />

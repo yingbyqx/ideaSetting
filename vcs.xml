@@ -34,8 +34,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="yingrongbi@163.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Aceysx/Spring-Cloud-Contract-Quickly-Start" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\ideaWorkSpace\dbiam" />
+    <option name="cloneParentDir" value="F:\ideaWorkSpace\ying\springcloud-contract" />
   </component>
 </application>

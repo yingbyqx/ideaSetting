@@ -54,8 +54,12 @@
           <option name="url" value="https://github.com/yingbyqx/jiayouhaohuo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.mchz.com.cn:capaa/capaa-web2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\ideaWorkSpace\jyhh_v\master" />
+    <option name="cloneParentDir" value="F:\ideaWorkSpace\2019\327_oem" />
   </component>
 </application>

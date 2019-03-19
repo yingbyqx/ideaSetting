@@ -62,8 +62,12 @@
           <option name="url" value="git@git.mchz.com.cn:soc/soc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.mchz.com.cn:dcap/services/svc_dict.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\ideaWorkSpace\2019\soc2" />
+    <option name="cloneParentDir" value="F:\ideaWorkSpace\2019\soc_v\svc_dict" />
   </component>
 </application>

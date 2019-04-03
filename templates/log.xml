@@ -1,5 +1,5 @@
 <templateSet group="log">
-  <template name="psll" value=" private static Logger logger = LoggerFactory.getLogger(TODO.class);" toReformat="false" toShortenFQNames="true">
+  <template name="psll" value=" private static Logger logger = LoggerFactory.getLogger(TODO.class);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

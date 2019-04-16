@@ -74,6 +74,10 @@
           <option name="url" value="git@git.mchz.com.cn:dcap/services/svc_zuul.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.mchz.com.cn:soc/svc_user.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\ideaWorkSpace\work" />

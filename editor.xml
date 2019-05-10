@@ -3,8 +3,4 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
 </application>

@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\soc\soc\src\main\java\com\mchz\soc\common\util\TimeUtils.java [soc]'" />
-    <option name="defaultScopeName" value="File '...\soc\soc\src\main\java\com\mchz\soc\common\util\TimeUtils.java [soc]'" />
-    <option name="SEARCH_SCOPE" value="File '...\soc\soc\src\main\java\com\mchz\soc\common\util\TimeUtils.java [soc]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

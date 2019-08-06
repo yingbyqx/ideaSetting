@@ -94,8 +94,12 @@
           <option name="url" value="git@git.mchz.com.cn:dcap/legacy/brook2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.mchz.com.cn:dcap/services/afw_server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\ideaWorkSpace\2019" />
+    <option name="cloneParentDir" value="F:\ideaWorkSpace\2019\afw_server" />
   </component>
 </application>

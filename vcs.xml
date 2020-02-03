@@ -106,8 +106,12 @@
           <option name="url" value="https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.mchz.com.cn/dcap/services/svc_search_biz" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/capaa/web" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/capaa/search_biz" />
   </component>
 </application>

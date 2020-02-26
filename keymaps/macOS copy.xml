@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="shift alt space" />
@@ -6,4 +7,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>

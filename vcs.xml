@@ -146,9 +146,13 @@
           <option name="url" value="http://git.mchz.com.cn/dcap/apps/dbIAM/dbiam-backend" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.mchz.com.cn/tool/common-tools" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/capaa/web" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/capaa/common-tool" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

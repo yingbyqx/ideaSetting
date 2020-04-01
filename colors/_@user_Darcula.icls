@@ -4,7 +4,7 @@
     <property name="created">2018-10-19T11:25:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2020-04-01T11:01:21</property>
+    <property name="modified">2020-04-01T16:39:08</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -14,7 +14,7 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="CARET_COLOR" value="3abb58" />
+    <option name="CARET_COLOR" value="66ff48" />
     <option name="CARET_ROW_COLOR" value="2f3227" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />

@@ -154,9 +154,17 @@
           <option name="url" value="http://git.mchz.com.cn/test/dbtesttool" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.200.162/dcap/services/svc_search" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.200.162" />
+          <option name="userName" value="yingrongbi" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/capaa/search_biz" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/capaa/search" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

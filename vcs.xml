@@ -186,9 +186,13 @@
           <option name="url" value="git@git.mchz.com.cn:dcap/services/svc_search.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.mchz.com.cn/soc/svc_gateway" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/capaa/search_biz" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/soc/gateway" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

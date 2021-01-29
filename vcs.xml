@@ -192,7 +192,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/soc/gateway" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/soc/soc" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />

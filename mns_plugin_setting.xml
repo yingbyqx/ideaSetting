@@ -1,5 +1,6 @@
 <application>
   <component name="me.bytebeats.ui.AppSettingState">
-    <option name="dailyFunds" value="320003;002621;519674;005827;003096;161726;161725" />
+    <option name="dailyFunds" value="320003;002621;519674;005827;003096;161726;161725;110011" />
+    <option name="stockSymbol" value="usTWTR" />
   </component>
 </application>
